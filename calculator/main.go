@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-	for{
 
 		var ques1 string
 		var numerator int
@@ -45,5 +44,3 @@ func main() {
 			fmt.Println("Invalid, please try again")
 		}
 	}
-	
-}
